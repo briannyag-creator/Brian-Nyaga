@@ -1,0 +1,8 @@
+{
+  "name": "FundiLink Kenya",
+  "description": "Access vetted Kenyan technicians across all 47 counties for electrical, solar, plumbing, borehole, refrigeration, automotive diagnostics, and ICT dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
